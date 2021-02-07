@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/USER-EEI/Desktop/Vivado FPGA/ExTest1KDE/project_1/project_1.srcs/sources_1/new/ex9_3_flipflop.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity flipflop
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/USER-EEI/Desktop/Vivado FPGA/ExTest1KDE/project_1/project_1.srcs/sources_1/new/ex9_3_flipflop_test.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity test
